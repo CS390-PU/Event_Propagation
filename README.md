@@ -1,1 +1,1 @@
-# StackBlitzSample
+# Event Propagation Example
